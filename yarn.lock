@@ -724,6 +724,7 @@ __metadata:
   resolution: "hammock-modelviwer@workspace:."
   dependencies:
     "@google/model-viewer": ^3.5.0
+    three: ^0.163.0
     vite: ^5.2.0
   languageName: unknown
   linkType: soft
@@ -1365,6 +1366,13 @@ __metadata:
     mkdirp: ^1.0.3
     yallist: ^4.0.0
   checksum: f1322768c9741a25356c11373bce918483f40fa9a25c69c59410c8a1247632487edef5fe76c5f12ac51a6356d2f1829e96d2bc34098668a2fc34d76050ac2b6c
+  languageName: node
+  linkType: hard
+
+"three@npm:^0.163.0":
+  version: 0.163.0
+  resolution: "three@npm:0.163.0"
+  checksum: 572c16264512f8d094929f585de0092cfaebe9306d7ee45acbf6a78e20e142424a4898679a79fbfe6c76cd3ea048b28f3f821e2daaf243a2e8f8a0d8c00c27dd
   languageName: node
   linkType: hard
 
